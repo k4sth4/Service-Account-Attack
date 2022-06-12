@@ -1,4 +1,4 @@
-# Service-Account-Attacks
+# Service-Account-Attack
 
 A service account is a “non-human” account that is used to run services or applications. Service accounts are not administrative accounts, or other “human” accounts, used interactively by administrators or other employees. Service accounts also often have privileged access to computers, applications, and data, which makes them highly valuable to attackers.
 
